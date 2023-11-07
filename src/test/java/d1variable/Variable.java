@@ -1,4 +1,4 @@
-package variable;
+package d1variable;
 
 public class Variable {
 
